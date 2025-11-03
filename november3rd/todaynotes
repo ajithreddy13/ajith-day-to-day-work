@@ -1,4 +1,4 @@
-npolymorphism
+>>polymorphism
 one object and many forms is known as polymorphism
 polymorphism is greek word 
 poly means many and morph means forms
@@ -8,3 +8,11 @@ polymorphism is two types
 >>>same method name with different paramenters is known as method overloading
 >>>encapsulation
 the wrapping of method and variable in a class is called  encapsulation
+
+>>java constructor 
+a constructor is a special method that called automatically when object was created
+>constructor name and class name should be same 
+>constructor didnt have any return value include void also 
+--types of constructor 
+1)default constructor 
+2)parameterized constructor
