@@ -1,4 +1,4 @@
-polymorphism
+npolymorphism
 one object and many forms is known as polymorphism
 polymorphism is greek word 
 poly means many and morph means forms
@@ -6,4 +6,5 @@ polymorphism is two types
 1)method overloading :compile time error
 2)method overriding :runtime error
 >>>same method name with different paramenters is known as method overloading
->>>
+>>>encapsulation
+the wrapping of method and variable in a class is called  encapsulation
